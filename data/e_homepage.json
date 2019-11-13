@@ -1,0 +1,29 @@
+{
+    "newProducts": [
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj1.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj1" },
+        { "type": "Redmi 8A", "title": "Redmi 8A", "imgurl": "../img/sjdhk/sj2.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj2" },
+        { "type": "Redmi 8", "title": "Redmi 8", "imgurl": "../img/sjdhk/sj3.jpg", "Nprice": "2799", "Yprice": "2799", "code": "e_sj3" },
+        { "type": "小米MIX Alpha", "title": "小米MIX Alpha", "imgurl": "../img/sjdhk/sj4.jpg", "Nprice": "2799", "Yprice": "2799", "code": "e_sj4" },
+        { "type": "小米9 Pro 5G", "title": "小米9 Pro 5G", "imgurl": "../img/sjdhk/sj5.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj5" },
+        { "type": "Redmi K20 Pro 尊享版", "title": "Redmi K20 Pro 尊享版", "imgurl": "../img/sjdhk/sj6.jpg", "Nprice": "2799", "Yprice": "2799", "code": "e_sj6" },
+        { "type": "Redmi Note8 Pro", "title": "Redmi Note8 Pro", "imgurl": "../img/sjdhk/sj7.jpg", "Nprice": "2799", "Yprice": "2799", "code": "e_sj7" },
+        { "type": "Redmi Note8", "title": "Redmi Note8", "imgurl": "../img/sjdhk/sj8.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj8" },
+        { "type": "小米CC9", "title": "小米CC9", "imgurl": "../img/sjdhk/sj9.jpg", "Nprice": "2799", "Yprice": "2799", "code": "e_sj9" },
+        { "type": "小米CC美图定制版", "title": "小米CC美图定制版", "imgurl": "../img/sjdhk/sj10.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj10" },
+        { "type": "小米CC9e", "title": "小米CC9e", "imgurl": "../img/sjdhk/sj11.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj11" },
+        { "type": "小米9", "title": "小米9", "imgurl": "../img/sjdhk/sj12.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj12" },
+        { "type": "小米MIX", "title": "小米MIX", "imgurl": "../img/sjdhk/sj13.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj13" },
+        { "type": "小米Max 3", "title": "小米Max 3", "imgurl": "../img/sjdhk/sj14.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj14" },
+        { "type": "黑鲨手机2 Pro", "title": "黑鲨手机2 Pro", "imgurl": "../img/sjdhk/sj15.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj15" },
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj16.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj16" },
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj17.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj17" },
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj18.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj18" },
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj19.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj19" },
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj20.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj20" },
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj21.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj21" },
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj22.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj22" },
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj23.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj23" },
+        { "type": "小米CC9 Pro", "title": "小米CC9 Pro", "imgurl": "../img/sjdhk/sj24.png", "Nprice": "2799", "Yprice": "2799", "code": "e_sj24" }
+    ]
+
+}
